@@ -110,7 +110,7 @@ export const HeroSection = () => {
                   <img
                     alt="Recycler"
                     title="11.1"
-                    src="/imgs/11.1.png"
+                    src="/public/11.1.png"
                     sizes="444px"
                     className="aspect-[auto_1002_/_1002] box-border caret-transparent max-w-full align-top w-[1002px]"
                   />
@@ -441,7 +441,7 @@ export const HeroSection = () => {
                   <img
                     alt="Recycler"
                     title="ewaste_recycling"
-                    src="/imgs/ewaste_recycling.png"
+                    src="/public/ewaste_recycling.png"
                     sizes="400px"
                     className="aspect-[auto_600_/_551] box-border caret-transparent max-w-full align-top w-[600px]"
                   />
